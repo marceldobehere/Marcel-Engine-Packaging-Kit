@@ -1,6 +1,7 @@
 # Marcel-Engine-Packaging-Kit
 This is a small kit I made for packaging and unpacking games from Marcel Engine
 
+(Please update to the newest version by running the installer again! Updated on 2.8.2021)
 
 How it works is:
 You can take your game made with Marcel Engine. (The exe should be in a folder and all the essential files it needs too!)
